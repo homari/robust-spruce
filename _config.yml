@@ -121,3 +121,4 @@ exclude:
 collections:
   posts:
     permalink: '/posts/:title/'
+domain: 'https://robust-spruce-f4367.netlify.app'
